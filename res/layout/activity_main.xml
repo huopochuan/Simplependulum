@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.example.simplependulum"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+   <com.example.simplependulum.Simplependulum 
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       app:radius="20dp"
+       app:length="100dp"
+       />
+
+</RelativeLayout>
