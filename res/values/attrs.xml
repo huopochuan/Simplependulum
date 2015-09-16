@@ -3,5 +3,6 @@
     <declare-styleable name="Simplependulum">
         <attr name="radius"  format="dimension" />
         <attr name="length"  format="dimension" />
+        <attr name="changecolor" format="boolean" />
     </declare-styleable>
 </resources>

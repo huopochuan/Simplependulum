@@ -10,6 +10,7 @@
        android:layout_height="fill_parent"
        app:radius="20dp"
        app:length="100dp"
+       app:changecolor="false"
        />
 
 </RelativeLayout>
